@@ -1,4 +1,4 @@
-VERSION = 1.1.0.0
+VERSION = 1.2.0.0
 QMAKE_TARGET_PRODUCT = Total Test Integrator Testing Plan Executor
 QMAKE_TARGET_DESCRIPTION = Testing plans console executor
 QMAKE_TARGET_COPYRIGHT = Copyright\xA9 Oleg Kopyev 2016-2017
@@ -42,6 +42,5 @@ HEADERS += \
     ../TTI/Common/DBManager/dbmanager.h \
     ../TTI/Common/DBManager/run-description.h \
     ../TTI/Common/DBManager/test-case.h \
-    ../TTI/Common/DBManager/test-case-cache.h \
     ../TTI/Common/DBManager/test-result.h \
     ../TTI/Common/DBManager/test-status.h
