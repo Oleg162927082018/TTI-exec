@@ -1,4 +1,4 @@
-VERSION = 1.2.0.0
+VERSION = 1.3.0.0
 QMAKE_TARGET_PRODUCT = Total Test Integrator Testing Plan Executor
 QMAKE_TARGET_DESCRIPTION = Testing plans console executor
 QMAKE_TARGET_COPYRIGHT = Copyright\xA9 Oleg Kopyev 2016-2017
