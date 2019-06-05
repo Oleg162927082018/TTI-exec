@@ -1,7 +1,7 @@
-VERSION = 1.3.0.0
+VERSION = 0.1.0.0
 QMAKE_TARGET_PRODUCT = Total Test Integrator Testing Plan Executor
 QMAKE_TARGET_DESCRIPTION = Testing plans console executor
-QMAKE_TARGET_COPYRIGHT = Copyright\xA9 Oleg Kopyev 2016-2017
+QMAKE_TARGET_COPYRIGHT = Copyright\xA9 Oleg Kopyev 2018-2019
 
 QT += core
 QT -= gui
@@ -13,6 +13,7 @@ CONFIG += c++11
 TARGET = ttie
 CONFIG += console
 CONFIG -= app_bundle
+RC_ICONS = tti.ico
 
 TEMPLATE = app
 
